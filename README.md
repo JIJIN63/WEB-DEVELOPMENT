@@ -1,6 +1,6 @@
 # WEB-DEVELOPMENT
-WEB DEVELOPMENT PROJECT
- TASK-1 Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item.
+# WEB DEVELOPMENT PROJECT
+ # TASK-1 Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item.
 
 
 <!DOCTYPE html>
@@ -40,10 +40,10 @@ Welcome to our website
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.
 
 
-TASK-2 CALCULATOR WEB APPLICATION
+# TASK-2 CALCULATOR WEB APPLICATION
 
-Build a fully functional calculator to practice DOM manipulation, event handling, and basic arithmetic operations.
-Implement functions to handle input parsing, event listeners on equal button, error handling, keyboard input handling.
+# Build a fully functional calculator to practice DOM manipulation, event handling, and basic arithmetic operations.
+# Implement functions to handle input parsing, event listeners on equal button, error handling, keyboard input handling.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -89,9 +89,9 @@ OUTPUT:
 
 C ⌫ / * 7 8 9 - 4 5 6 + 1 2 3 = 0 .
 
-TASK 3 QUIZ GAME APPLICATION
+# TASK 3 QUIZ GAME APPLICATION
 
-Develop an interactive multiple-choice quiz game that displays questions, collects answers, and provides a score at the end.
+# Develop an interactive multiple-choice quiz game that displays questions, collects answers, and provides a score at the end.
 
 
 const quizData = [
@@ -203,10 +203,10 @@ After Completing Quiz
 - Your final score is X out of Y.
 
 
-TASK-4 TO-DO WEB APP
+# TASK-4 TO-DO WEB APP
 
-Develop a basic to-do app that enables a user to add maintain tasks.
-Allow users to add/organize items in lists. Mark them Completed, Edit them, Set Date & Time of tasks
+# Develop a basic to-do app that enables a user to add maintain tasks.
+# Allow users to add/organize items in lists. Mark them Completed, Edit them, Set Date & Time of tasks
  
 JavaScript (in script.js file)
 let tasks = [];
